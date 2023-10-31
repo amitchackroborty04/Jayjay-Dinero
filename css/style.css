@@ -1,0 +1,473 @@
+/* ===============commo css start ==================== */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: black;
+}
+
+.container {
+    max-width: 1075px;
+    margin: 0 auto;
+}
+
+/* ===================common css end================ */
+/* ===================nav start========================== */
+nav {
+    height: 80px;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 52px;
+    transition: .4s;
+}
+
+.nav-link:hover {
+    color: #7562E0;
+}
+
+/* ===================nav end========================= */
+/* ==================banner staet=================== */
+#banner {
+    background: hsl(240, 22%, 13%);
+    padding-bottom: 46px;
+    overflow: hidden;
+    margin-bottom: 128px;
+}
+
+.bner_d1 {
+    margin-top: 210px;
+}
+
+.bner_d1 h1 {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1px;
+    color: #FFFFFF;
+}
+
+.bner_d1 h2 {
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 1px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    width: 426px;
+
+}
+
+.bner_d1 p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    width: 435px;
+}
+
+.button {
+    position: relative;
+    width: 160px;
+
+
+}
+
+.btn1 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    width: 160px;
+    border-radius: 8px;
+    border: 2px solid #7562E0;
+    transition: .4s;
+}
+
+.icon1 {
+    position: absolute;
+    top: 18px;
+    right: 25px;
+}
+
+.btn1:hover {
+    background: #7562E0;
+}
+
+.flex {
+    display: flex;
+}
+
+.button_2 {
+    margin-left: 32px;
+}
+
+.btn_2 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    width: 160px;
+    border-radius: 8px;
+    border: 2px solid #7562E0;
+    transition: .4s;
+
+}
+
+.button_2 {
+    position: relative;
+}
+
+.icon_2 {
+    position: absolute;
+    top: 18px;
+    right: 34px;
+
+}
+
+.btn_2:hover {
+    background: #7562E0;
+}
+
+.banner_d2 {
+    position: relative;
+}
+
+.banner_img {
+    position: absolute;
+    top: 62px;
+    right: 0;
+}
+
+/* ==================bannner end================== */
+/* ===================About start================== */
+#about {
+    background: #1A1A29;
+    padding-top: 55px;
+    padding-bottom: 32px;
+}
+
+.title h3 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #7562E0;
+}
+
+.title p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-top: 8px;
+}
+
+.flex_2 {
+    display: flex;
+    align-items: center;
+}
+
+.d1 h2 {
+    font-size: 96px;
+    font-weight: 600;
+    color: #7562E0;
+}
+
+.d2 p {
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.d2 {
+    margin-left: 22px;
+}
+
+.title {
+    margin-top: 25px;
+}
+
+.about_div1 h2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-top: 14px;
+}
+
+.about_div1 h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.about_div1 {
+    padding-top: 97px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    height: 254px;
+    background: #BDBDBD;
+    transition: .4s;
+}
+
+.about_div1:hover {
+    background: #7562E0;
+}
+
+.down {
+    margin-top: 58px;
+}
+
+/* ==================About emd========================= */
+/* ====================sercices================ */
+.service_title {
+    font-size: 32px;
+    font-weight: 500;
+    color: #7562E0;
+    margin-top: 80px;
+}
+
+.servicea_div h4 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 185%;
+    color: #FFFFFF;
+    margin-top: 8px;
+}
+
+.servicea_div p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-top: 16px;
+    width: 296px;
+    margin: 0 auto;
+}
+
+.servicea_div {
+    padding-top: 75px;
+    padding-bottom: 91px;
+    border: 3px solid #7562E0;
+    border-radius: 16px;
+    text-align: center;
+    transition: .4s;
+    height: 338px;
+}
+.div_dwon{
+    margin-top: 32px;
+}
+.servicea_div2 h4 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 185%;
+    color: #FFFFFF;
+    margin-top: 8px;
+}
+.servicea_div2 p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-top: 16px;
+    width: 296px;
+    margin: 0 auto;
+}
+.servicea_div2{
+    padding-top: 75px;
+    padding-bottom: 91px;
+    border: 3px solid #F5F5F5;
+    height: 338px;
+    border-radius: 16px;
+    text-align: center;
+    transition: .4s;
+    webkit-box-shadow: 0px 2px 4px 0px rgba(255, 255, 255, 1);
+    -moz-box-shadow: 0px 2px 4px 0px rgba(255, 255, 255, 1);
+    box-shadow: 0px 2px 4px 0px rgba(255, 255, 255, 1);
+ 
+}
+.div_swon2{
+    margin-top: 16px;
+}
+/* ====================sercices end================ */
+/* ====================project start============== */
+.project_title{
+    font-size: 32px;
+    font-weight: 600;
+    color: #7562E0;
+    margin-top: 80px;
+}
+.project_para{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-top: 8px;
+
+}
+.padding{
+    width: 343px;
+    height: 417px;
+    background: #31313F;
+    padding: 16px 16px;
+}
+.card-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #7562E0;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    width: 303px;
+}
+.flex3{
+    display: flex;
+    margin-top: 24px;
+
+}
+.buton_1{
+    text-decoration: none;
+    padding: 9.5px 35px;
+    border: 2px solid #7562E0;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    transition: .4s;
+    display: inline-block;
+  
+}
+.buton_1:hover{
+    background: #7562E0;
+}
+.buton_div2{
+    margin-left: 50px;
+}
+.buton_2{
+    text-decoration: none;
+    padding: 9.5px 35px;
+    border: 2px solid #7562E0;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    transition: .4s;
+    display: inline-block;
+}
+.card1 h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: #7562E0;
+    margin-top: 16px;
+}
+.card1 p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    width: 303px;
+    margin-top: 5px;
+}
+.card_dwon{
+    margin-top: 36px;
+}
+.card1{
+    padding: 16px 16px;
+    padding-bottom: 23px;
+    background: #31313F;
+    width: 343px;
+    border-radius: 8px;
+}
+.flex3{
+    display: flex;
+    margin-top: 24px;
+}
+.btn_3 a{
+    text-decoration: none;
+    padding: 9.5px 35px;
+    border: 2px solid #7562E0;
+    border-radius: 8px;
+    color: #FFFFFF;
+    display: inline-block;
+    transition: .4s;
+}
+.btn_3 a:hover{
+    background: #7562E0;
+}
+.space{
+    margin-left: 16px;
+}
+/*======================project end========= */
+/* ===================Connect start============= */
+.dwon_5{
+    margin-top: 128px;
+}
+.conect_d1 h3{
+    font-size: 32px;
+    font-weight: 600;
+    color: #7562E0;
+}
+.conect_d1 h5{
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+
+.conect_d2 h3{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.conect_d2 input{
+    padding: 19px 16px;
+    width: 472px;
+    background: #31313F;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+.conect_d2 input::placeholder{
+    font-size: 16px;
+    font-weight: 500;
+   
+}
+.input{
+    padding: 37px 16px !important;
+}
+.button3{
+    text-decoration: none;
+    padding: 16px 66px;
+    background: #7562E0;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 16px;
+}
+/* ====================connect end=============== */
+/* ======================fotter start============= */
+.flex5{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+
+}
+.foter{
+    margin-top: 157px;
+}
+.foter p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    /* width: 255px; */
+   
+}
+/* ======================fotter end=============== */

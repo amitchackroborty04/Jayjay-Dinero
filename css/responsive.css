@@ -1,0 +1,128 @@
+@media (min-width:320px) and (max-width:575px) {
+    .navbar-toggler {
+        background: wheat;
+    }
+    .bner_d1 h1 {
+        font-size: 21px;
+       
+    }
+    .bner_d1 h2 {
+        font-size: 27px;
+        margin-top: 38px;
+        width: auto;
+    }
+    .bner_d1 p {
+        font-size: 15px;
+        margin-top: 38px;
+        width: auto;
+    }
+   
+    .icon1 {
+        position: absolute;
+        top: 18px;
+        right: 38px;
+    }
+    .btn1 {
+        width: auto;
+    }
+    .btn_2 {
+        padding: 12px 24px;
+        width: auto;
+    }
+    .button_2 {
+        margin-left: -6px;
+    }
+    .icon_2 {
+        position: absolute;
+        top: 18px;
+        right: 4px;
+    }
+    .title h3 {
+        font-size: 26px;
+       
+    }
+    .title p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .d1 h2 {
+        font-size: 30px;
+    }
+    .d2 p {
+        font-size: 13px;
+    }
+    .about_div1 h2 {
+        font-size: 19px;
+       
+    }
+    .about_div1 h3 {
+        font-size: 20px;
+        
+    }
+    .about_div1{
+        margin-top: 30px;
+    }
+    .service_title {
+        font-size: 21px;
+    }
+    .servicea_div h4 {
+        font-size: 20px;
+        
+    }
+    .servicea_div2{
+        margin-top: 30px;
+    }
+    .servicea_div{
+        margin-top: 30px;
+    }
+    .project_title {
+        font-size: 23px;
+        
+    }
+    .project_para {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .card1 {
+        
+        width: auto;
+        margin-bottom: 30px;
+      
+    }
+    .card1 img{
+        width: 100%;
+    }
+    .card1 h3 {
+        font-size: 20px;
+        
+    }
+    .card1 p {
+        font-size: 15px;
+        width: auto;
+        
+    }
+    .dwon_5 {
+        margin-top: 37px;
+    }
+    .conect_d1 h3 {
+        font-size: 25px;
+        
+    }
+    .conect_d1 h5 {
+        font-size: 13px;
+       
+    }
+    .conect_d2 h3 {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    .conect_d2 input {
+        width: auto;
+    }
+    .foter p {
+        font-size: 4px;
+        
+    }
+    
+
+}
